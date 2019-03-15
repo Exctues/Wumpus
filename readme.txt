@@ -1,4 +1,4 @@
-Open WUMPUS_REPORT to look at brief introduction. There some pictures too.
+Open Wumpus_Report to look at brief introduction. There some pictures too.
 
 0) Use 'cd' to navigate to the working directory (where files live)
 1) run wumpus.pl using "swipl wumpus.pl" command.
