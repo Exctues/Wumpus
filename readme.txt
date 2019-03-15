@@ -1,3 +1,5 @@
+Open WUMPUS_REPORT to look at brief introduction. There some pictures too.
+
 0) Use 'cd' to navigate to the working directory (where files live)
 1) run wumpus.pl using "swipl wumpus.pl" command.
 2) After that, you should write "start(L)." command. L is list of all solutions which will be printed in pyinput.txt.
